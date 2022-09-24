@@ -1,2 +1,4 @@
 flask[async]
 gunicorn
+selenium
+pyvirtualdisplay
